@@ -12,7 +12,7 @@ If you are looking for a dedicated and collaborative junior iOS developer to joi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaxBilyk1401&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](profile-3d-contrib/profile-night-rainbow.svg)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaxBilyk1401&theme=dark&hide_border=false)<br/>
 
 ---
