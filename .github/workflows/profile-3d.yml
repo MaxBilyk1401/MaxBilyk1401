@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -21,6 +21,5 @@ jobs:
         run: |
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com
-          git pull --rebase
           git add -A
-          git diff-index --quiet HEAD || (git commit -m "generated" && git push)
+          git diff --cached --quiet || (git commit -m "generated" && git push)
