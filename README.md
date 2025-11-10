@@ -1,7 +1,5 @@
 # 💫 About Me:
-Junior iOS Developer with a Passion for Learning and Collaboration
-As a junior iOS developer with six months of experience, I am a driven and dedicated individual who is always eager to learn and grow in my field. I possess a strong foundation in iOS development and am committed to staying up-to-date with the latest industry trends and technologies. I am a team player who is always willing to lend a helping hand and contribute to the success of the team.
-If you are looking for a dedicated and collaborative junior iOS developer to join your team, I would be an excellent choice.
+iOS Developer with ~3 years of development experience and 2 years in UI/UX Design (5 years overall). I focus on building robust, user-friendly apps in Swift/SwiftUI/UIKit, applying MVVM (plus Coordinator), RESTful APIs, and GitFlow. I’ve delivered features like dynamic localization, file and media management, QR scanning, secure storage, and image conversion. My design background sharpens UI/UX decisions, while best practices (SOLID, DRY, and Apple HIG) keep code clean and maintainable. I enjoy collaborative teams, code reviews, and continuous learning—always aiming to ship polished experiences that make an impact.
 
 
 ## 🌐 Socials:
