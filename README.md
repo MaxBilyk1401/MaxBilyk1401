@@ -1,6 +1,4 @@
 # 💫 About Me:
-iOS Developer with ~3 years of development experience and 2 years in UI/UX Design (5 years overall). I focus on building robust, user-friendly apps in Swift/SwiftUI/UIKit, applying MVVM (plus Coordinator), RESTful APIs, and GitFlow. I’ve delivered features like dynamic localization, file and media management, QR scanning, secure storage, and image conversion. My design background sharpens UI/UX decisions, while best practices (SOLID, DRY, and Apple HIG) keep code clean and maintainable. I enjoy collaborative teams, code reviews, and continuous learning—always aiming to ship polished experiences that make an impact.
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/maxbilyk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxym-bilyk-8568691a3/) 
